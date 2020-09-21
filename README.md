@@ -1,3 +1,5 @@
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+
 # Dimension_reduction, Feature selection, anomaly detection and association analysis.
 This repository consists of 3 jupyter notebooks with results and technical aspects of the following:
 
