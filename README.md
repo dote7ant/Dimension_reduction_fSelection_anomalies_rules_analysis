@@ -14,7 +14,7 @@ We will use filter methods and and feature ranking methods to determine which fe
 
 After both approaches we will give our conclusions and recommendations.
 
-# 2. Anomally detection.
+# 2. Anomaly detection.
 ## Check whether there are any anomalies in the given sales dataset.
 The second notebook aims to find anomalies within the dataset provided.
 
